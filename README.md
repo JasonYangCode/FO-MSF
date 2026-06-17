@@ -19,14 +19,14 @@
 
 
 <div align="center">
-  <img src="Fig/Fig03.png" width="100%" alt="STCA-SNN" />
+  <img src="Fig/Fig01.png" width="100%" alt="STCA-SNN" />
 </div>
 
 ## Comparison with recent methods
 
 
 <div align="center">
-  <img src="Fig/Fig01.png" width="60%" alt="STCA-SNN" />
+  <img src="Fig/Fig02.png" width="60%" alt="STCA-SNN" />
 </div>
 
 ## Prerequisites
