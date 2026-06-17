@@ -12,14 +12,14 @@
 </div>
 
 
-## Model Architecture
+## Graphical abstract
 
 - This is the repository for paper *FO-MSF: A fractional-order multi-synaptic firing neuron with nonlocal memory for high-performance spiking neural networks*.
 
 
 
 <div align="center">
-  <img src="Fig/Fig02.png" width="80%" alt="STCA-SNN" />
+  <img src="Fig/Fig03.png" width="100%" alt="STCA-SNN" />
 </div>
 
 ## Comparison with recent methods
