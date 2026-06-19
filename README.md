@@ -1,5 +1,5 @@
 <div align="center" style="font-family: charter;">
-<h1>FO-MSF: A fractional-order multi-synaptic firing neuron with nonlocal memory for high-performance spiking neural networks</h1>
+<h1>FO-MSF: A Fractional-Order Multi-Synaptic Firing Neuron with Nonlocal Memory for High-Performance Spiking Neural Networks</h1>
 
 <div align="center" style="line-height: 2;">
   <a href="LICENSE" style="margin: 2px;">
@@ -14,7 +14,7 @@
 
 ## Graphical abstract
 
-- This is the repository for paper *FO-MSF: A fractional-order multi-synaptic firing neuron with nonlocal memory for high-performance spiking neural networks*.
+- This is the repository for paper *FO-MSF: A Fractional-Order Multi-Synaptic Firing Neuron with Nonlocal Memory for High-Performance Spiking Neural Networks*.
 
 
 
