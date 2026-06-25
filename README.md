@@ -22,7 +22,7 @@
   <img src="Fig/Fig01.png" width="100%" alt="STCA-SNN" />
 </div>
 
-## Comparison with state-of-the-art methods
+## Comparison with recent advanced methods
 
 
 <div align="center">
